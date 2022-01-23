@@ -11,13 +11,13 @@ Send me any Telegram file and choose appropriate option!
 
     RENAME_403_ERR = "What Are You Doing? You are Banned"
 
-    UPGRADE_TEXT = "CONTACT @Ts_Bots"
+    UPGRADE_TEXT = "CONTACT @Wuzzup_BoY"
 
     DOWNLOAD_START = "Download Started... "
 
     UPLOAD_START = "Uploading Started... "
 
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  @Ts_Bots**"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me > ©  @Wuzzup_BoY**"
 
     SAVED_THUMB = "Thumbnail Saved ✅ This Is Permanent"
 
@@ -27,7 +27,7 @@ Send me any Telegram file and choose appropriate option!
 
     SAVED_RECVD_DOC_FILE = "File Downloaded Successfully 😎"
 
-    CUSTOM_CAPTION_UL_FILE = "@Ts_Bots"
+    CUSTOM_CAPTION_UL_FILE = "@Wuzzup_BoY"
 
     HELP_USER = """
 
@@ -42,14 +42,14 @@ Send me any Telegram file and choose appropriate option!
 4. Send the new file when bot asks 
 
 
-<b>By @Ts_Bots</b>
+<b>By @Wuzzup_BoY</b>
 """
 
     ABOUT_TEXT = """
 
 **About Me**
 
-○ ᴍʏ ɴᴀᴍᴇ : 𝚁𝙴𝙽𝙰𝙼𝙴𝚁 | Clone
+○ ᴍʏ ɴᴀᴍᴇ : Wuzzup 𝚁𝙴𝙽𝙰𝙼𝙴𝚁 | Clone
 
 ○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 
 
@@ -57,10 +57,8 @@ Send me any Telegram file and choose appropriate option!
 
 ○ sᴇʀᴠᴇʀ : ʜᴇʀᴏᴋᴜ 
 
-○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴛᴏᴜᴄʜ ʜᴇʀᴇ](https://github.com/Hillard-har/RENAMER-BOT) 
+○ ᴄʀᴇᴀᴛᴏʀ : [@Wuzzup_BoY](https://t.me/Wuzzup_BoY)
 
-○ ᴄʀᴇᴀᴛᴏʀ : [@Ts_Bots](https://t.me/ts_bots)
-
-**[©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs](https://t.me/Ts_bots)**
+**[©️ Wuzzup_BoY](https://t.me/Wuzzup_BoY**
 
 """
