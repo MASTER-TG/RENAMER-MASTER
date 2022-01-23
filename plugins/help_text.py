@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) Hillard-har | @Trackstudio | Ts-Bots | prgofficial 
+# (c) Wuzzup_BoY | @Wuzzup_BoY | Wuzzup_BoY 
 
 import logging
 logging.basicConfig(level=logging.DEBUG,
@@ -34,7 +34,7 @@ def help_user(bot, update):
     bot.send_message(
         chat_id=update.chat.id,
         text=script.HELP_USER,
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="😇 DEVELOPER", url="https://t.me/Trackstudio")]]),
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="🤓 DEVELOPER", url="https://t.me/Wuzzup_BoY")]]),
         parse_mode="html",
         disable_web_page_preview=True,
         reply_to_message_id=update.message_id
@@ -51,7 +51,7 @@ def send_start(bot, update):
         parse_mode="markdown",
         disable_web_page_preview=True,
         reply_to_message_id=update.message_id, 
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="😇 DEVELOPER", url="https://t.me/Trackstudio")]])
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="🤓 DEVELOPER", url="https://t.me/Wuzzup_BoY")]])
     )
 
 
@@ -75,7 +75,7 @@ async def about(bot, update):
         parse_mode="markdown",
         reply_to_message_id=update.message_id, 
         disable_web_page_preview = True, 
-        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="😇 DEVELOPER", url="https://t.me/Trackstudio")]])  
+        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="🤓 DEVELOPER", url="https://t.me/Wuzzup_BoY")]])  
     )
 
 
@@ -93,7 +93,7 @@ async def rename_cb(bot, update):
         chat_id=update.chat.id,
         text="<b>File Name</b> : <code>{}</code> \n\nSelect the desired option below 😇".format(filename),
         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton(text="📝 RENAME", callback_data="rename_button")],
-                                                [InlineKeyboardButton(text="⛔ CANCEL", callback_data="cancel_e")]]),
+                                                [InlineKeyboardButton(text="❌ CANCEL", callback_data="cancel_e")]]),
         parse_mode="html",
         reply_to_message_id=update.message_id,
         disable_web_page_preview=True   
