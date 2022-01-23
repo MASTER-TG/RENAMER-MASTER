@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) Hillard-har | Ts-Bots 
+# (c) @Wuzzup_BoY
 
 import logging
 logging.basicConfig(level=logging.DEBUG,
