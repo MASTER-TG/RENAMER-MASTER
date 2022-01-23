@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) Wuzzup_Boy
+# (c) @Wuzzup_Boy
 
 # the logging things
 import logging
